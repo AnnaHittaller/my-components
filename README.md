@@ -1,1 +1,1 @@
-# my-components
+Simple components for webpages: headers, footers and buttons.
