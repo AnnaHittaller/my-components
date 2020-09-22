@@ -1,0 +1,1 @@
+Simple footer with a few links.
