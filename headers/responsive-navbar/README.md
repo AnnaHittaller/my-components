@@ -1,0 +1,1 @@
+A simple navigation bar with a menu. Fully responsive, applicable for both mobile (menu items placed below each other) and for desktop (the menu items are in one line).
