@@ -1,0 +1,1 @@
+A pair of simple flat buttons with color changing on hover.
